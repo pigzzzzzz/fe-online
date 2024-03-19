@@ -1,4 +1,4 @@
-import delay from '../utils/delay'
+import delay from '../utils/delay.ts'
 interface Org {
   id: string
   name: string

@@ -1,4 +1,5 @@
-import delay from '../utils/delay'
+import delay from '../utils/delay.ts'
+
 interface User {
   id: string
   name: string
